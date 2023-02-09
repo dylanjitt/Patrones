@@ -1,0 +1,20 @@
+package example;
+
+public class Producto {
+	private String name;
+	private int precio;
+	
+	public Producto(String name, int precio) {
+		this.name = name;
+		this.precio = precio;
+	}
+	
+	public void descuento(int newPrecio) {
+		precio=newPrecio;
+			System.out.println("Precio de oferta de "+name+ ": "+precio);
+	}
+	
+	public void precio() {
+		System.out.println("Precio de "+name+" :"+precio);
+	}
+}

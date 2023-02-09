@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;primerParcial.Practica2&apos; to &apos;P2ej1&apos;&#x0D;&#x0A;- Original project: &apos;ProgramacionFuncional&apos;&#x0D;&#x0A;- Original element: &apos;primerParcial.Practica2&apos;&#x0D;&#x0A;- Renamed element: &apos;primerParcial.P2ej1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Practica2&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;primerParcial{Practica2.java[Practica2" matchStrategy="1" name="P2ej1" qualified="false" references="true" similarDeclarations="false" stamp="1653855461193" textual="false" version="1.0"/>
+</session>

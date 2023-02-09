@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;esMayorEdad&apos; in &apos;SegundoParcial.CuentaJoven&apos; to &apos;titularVerificado&apos;&#x0D;&#x0A;- Original project: &apos;ProgramacionFuncional&apos;&#x0D;&#x0A;- Original element: &apos;SegundoParcial.CuentaJoven.esMayorEdad&apos;&#x0D;&#x0A;- Renamed element: &apos;SegundoParcial.CuentaJoven.titularVerificado&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;esMayorEdad&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;SegundoParcial{CuentaJoven.java[CuentaJoven^esMayorEdad" name="titularVerificado" references="true" setter="false" stamp="1654731702754" textual="false" version="1.0"/>
+</session>

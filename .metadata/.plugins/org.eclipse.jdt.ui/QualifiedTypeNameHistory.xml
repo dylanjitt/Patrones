@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="SegundoParcial.PFSegundoParcial"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="SegundoParcial.Cliente"/>
+    <fullyQualifiedTypeName name="SegundoParcial.Cuadrilatero"/>
+    <fullyQualifiedTypeName name="java.util.stream.IntStream"/>
+    <fullyQualifiedTypeName name="java.util.function.Supplier"/>
+    <fullyQualifiedTypeName name="java.lang.AssertionError"/>
+    <fullyQualifiedTypeName name="SegundoParcial.Estudiante"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="SegundoParcial.P3ej2"/>
+    <fullyQualifiedTypeName name="java.util.function.Function"/>
+    <fullyQualifiedTypeName name="java.util.function.BiFunction"/>
+    <fullyQualifiedTypeName name="java.text.Normalizer"/>
+    <fullyQualifiedTypeName name="java.text.Normalizer.Form"/>
+    <fullyQualifiedTypeName name="SegundoParcial.Persona"/>
+    <fullyQualifiedTypeName name="SegundoParcial.CuentaJoven"/>
+    <fullyQualifiedTypeName name="SegundoParcial.Banco"/>
+    <fullyQualifiedTypeName name="SegundoParcial.Cuenta"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="javax.print.attribute.standard.NumberUpSupported"/>
+    <fullyQualifiedTypeName name="java.util.Stack"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="SegundoParcial.Persona2"/>
+    <fullyQualifiedTypeName name="SegundoParcial.Estud"/>
+    <fullyQualifiedTypeName name="SegundoParcial.Verifier"/>
+    <fullyQualifiedTypeName name="SegundoParcial.Usuario"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="java.util.NoSuchElementException"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="SegundoParcial.Posiciones"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="terrenosDataBases.Persona"/>
+    <fullyQualifiedTypeName name="terrenosDataBases.Terreno"/>
+    <fullyQualifiedTypeName name="terrenosDataBases.Gestor"/>
+</qualifiedTypeNameHistroy>
