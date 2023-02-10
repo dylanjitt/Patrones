@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;practice2.accesorios.java&apos; to &apos;Accesorios.java&apos;&#x0D;&#x0A;- Original project: &apos;patrones2023&apos;&#x0D;&#x0A;- Original element: &apos;practice2.accesorios.java&apos;&#x0D;&#x0A;- Renamed element: &apos;practice2.Accesorios.java&apos;" description="Rename compilation unit &apos;accesorios.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;practice2{accesorios.java" name="Accesorios.java" references="false" stamp="1675999427991" version="1.0"/>
+</session>

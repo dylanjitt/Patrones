@@ -1,0 +1,11 @@
+package practice2;
+
+public class accesorios {
+	
+	private boolean audifono;
+	private boolean cargador;
+	private boolean estuche;
+	
+	
+
+}

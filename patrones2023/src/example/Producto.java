@@ -16,23 +16,6 @@ public class Producto {
 		this.precio = precio;
 	}
 	
-	private synchronized static void create() {
-		if (instance==null)
-			instance= new Producto("chocolate",15);
-	}
-	
-	public static Producto getInstance() {
-		if (instance==null)
-			create();
-		return instance;
-		
-	}
-	
-	public synchronized void descuento(int newPrecio) {
-		precio=newPrecio;
-			System.out.println("Precio de oferta de "+name+ ": "+precio);
-	}
-	
 	public void precio() {
 		System.out.println("Precio de "+name+" :"+precio);
 	}

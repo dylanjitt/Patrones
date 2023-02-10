@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="SegundoParcial.PFSegundoParcial"/>
@@ -41,4 +40,18 @@
     <fullyQualifiedTypeName name="terrenosDataBases.Persona"/>
     <fullyQualifiedTypeName name="terrenosDataBases.Terreno"/>
     <fullyQualifiedTypeName name="terrenosDataBases.Gestor"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="singleton.Sucursal"/>
+    <fullyQualifiedTypeName name="singleton.Client"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="singleton.CuentaBancaria"/>
+    <fullyQualifiedTypeName name="example.Promoción"/>
+    <fullyQualifiedTypeName name="example.Producto"/>
+    <fullyQualifiedTypeName name="java.lang.Cloneable"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="practice2.Iphone"/>
+    <fullyQualifiedTypeName name="practice2.Phone"/>
+    <fullyQualifiedTypeName name="practice2.Sim"/>
+    <fullyQualifiedTypeName name="practice2.Accesorios"/>
 </qualifiedTypeNameHistroy>

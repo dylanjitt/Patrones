@@ -1,0 +1,6 @@
+package practice2;
+
+public class Phone implements Iphone{
+	
+
+}
