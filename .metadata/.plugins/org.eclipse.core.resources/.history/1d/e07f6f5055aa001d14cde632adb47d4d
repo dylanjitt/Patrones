@@ -1,0 +1,12 @@
+package practica3;
+
+public class Avion {
+	
+	private String marca;
+	private int modelo;
+	private int capacidad;
+	private int nroAsientos;
+	
+	
+
+}

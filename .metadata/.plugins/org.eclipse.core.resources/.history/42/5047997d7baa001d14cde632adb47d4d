@@ -1,0 +1,36 @@
+package practica3;
+
+public class Solidario2creator extends CreatorPasaje {
+
+	@Override
+	public PasajeSolidario create() {
+		PasajeSolidario pasaje = new PasajeSolidario();
+		
+		int numVuelo = 888;
+		LugarVuelo origen = new LugarVuelo( "Pando");
+		origen.setPais("Bolivia");
+		origen.setAeropuerto("Aeropuerto Internacional El Alto");
+		
+		LugarVuelo destino = new LugarVuelo("Albuquerque");
+		destino.setPais("Nuevo Mexico - Estados Unidos");
+		destino.setAeropuerto("Aeropuerto Internacional Sunport");
+		
+		Avion avion = new Avion("Boeing", 420);
+		Pasajero pasajero = new Pasajero("Howard Hamlin", "123456");
+		String numAsiento = "10D";
+		double costoPasaje = 8000.00;
+		double descuento = 50.00;
+		
+		pasaje.setNumVuelo(numVuelo);
+		pasaje.setOrigen(origen);
+		pasaje.setDestino(destino);
+		pasaje.setAvion(avion);
+		pasaje.setPasajero(pasajero);
+		pasaje.setNumAsiento(numAsiento);
+		pasaje.setCosto(costoPasaje);
+		pasaje.setDescuentoPercentage(descuento);
+	
+		return pasaje;
+	}
+
+}

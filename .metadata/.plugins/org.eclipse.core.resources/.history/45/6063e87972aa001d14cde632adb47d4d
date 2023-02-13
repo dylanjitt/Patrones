@@ -1,0 +1,29 @@
+package practica3;
+
+public class MichaelLapazIquique extends CreatorPasaje {
+
+	@Override
+	public Ipasaje create() {
+		PasajeInfantes michaelLpIq = new PasajeInfantes();
+		
+		LugarVuelo laPaz = new LugarVuelo("Bolivia", "La Paz", "Aeropuerto Internacional El Alto");
+		LugarVuelo arica = new LugarVuelo("Chile", "Arica", "Aeropuerto Internacional Chacalluta");
+		Avion boeing = new Avion("Boeing", 777);
+		Pasajero michael = new Pasajero("Michael Eyzaguirre", "777777");
+		
+		michaelLpIq.setNumVuelo(777);
+		
+		michaelLpIq.setOrigen();
+		
+		michaelLpIq.setDestino();
+		
+		
+		
+		michaelLpIq
+		
+		return null;
+	}
+	
+	
+
+}

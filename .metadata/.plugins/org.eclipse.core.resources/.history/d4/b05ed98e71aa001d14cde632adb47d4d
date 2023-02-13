@@ -1,0 +1,14 @@
+package practica3;
+
+public class MichaelLapazIquique extends CreatorPasaje {
+
+	@Override
+	public Ipasaje create() {
+		PasajeInfantes michaelLpIq = new PasajeInfantes();
+		
+		return null;
+	}
+	
+	
+
+}

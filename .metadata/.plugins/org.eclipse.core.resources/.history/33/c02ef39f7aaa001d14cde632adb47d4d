@@ -1,0 +1,10 @@
+package practica3;
+
+public class Launcher {
+
+	public static void main(String[] args) {
+		PasajeRegular r1 = new Regular1creator().create();
+
+	}
+
+}
