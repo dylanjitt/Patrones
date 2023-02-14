@@ -1,0 +1,5 @@
+package practicaCambioMonedaSingleton;
+
+public class CuentaBancaria {
+
+}
