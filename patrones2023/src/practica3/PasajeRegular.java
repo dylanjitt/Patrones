@@ -107,7 +107,6 @@ public class PasajeRegular implements Ipasaje{
 		pasajero.showInfo();
 		System.out.println("Numero de asiento: "+numAsiento);
 		System.out.println("Precio Final: "+costo);
-		
 	}
 	
 

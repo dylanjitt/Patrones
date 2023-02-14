@@ -54,4 +54,9 @@
     <fullyQualifiedTypeName name="practice2.Phone"/>
     <fullyQualifiedTypeName name="practice2.Sim"/>
     <fullyQualifiedTypeName name="practice2.Accesorios"/>
+    <fullyQualifiedTypeName name="practicaCambioMonedaSingleton.BancoCentral"/>
+    <fullyQualifiedTypeName name="practicaCambioMonedaSingleton.Banco"/>
+    <fullyQualifiedTypeName name="practicaCambioMonedaSingleton.CasaDeCambios"/>
+    <fullyQualifiedTypeName name="practicaCambioMonedaSingleton.LibreCambista"/>
+    <fullyQualifiedTypeName name="practicaCambioMonedaSingleton.CuentaBancaria"/>
 </qualifiedTypeNameHistroy>

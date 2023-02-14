@@ -1,0 +1,18 @@
+package practica4;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class FactoryPasajeMap {
+	
+	private static Map<String,Pasaje> pasajeMap = new HashMap<>();
+	
+	public static Pasaje make(String type) {
+		pasajeMap.put("regular", new PasajeRegular());
+		pasajeMap.put("solidario", new PasajeSolidario());
+		pasajeMap.put("infante", new PasajeInfantes());
+		
+		return pasajeMap.containsKey(type)?pasajeMap.get(type):null;
+	}
+
+}

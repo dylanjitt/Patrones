@@ -8,6 +8,6 @@ public class Promoción {
 	
 	public void halfprice() {
 		
-		Producto.descuento(producto.getPrecio()/2);
+		//Producto.descuento(producto.getPrecio()/2);
 	}
 }

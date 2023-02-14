@@ -1,0 +1,72 @@
+package practica4;
+
+
+public class FactoryPasajes {
+	
+	public static Pasaje make(String type) {
+		
+		Pasaje pasaje;
+		int numVuelo;
+		LugarVuelo origen;
+		LugarVuelo destino;
+		Avion avion;
+		int cap;
+		Pasajero pasajero;
+		String numAsiento;
+		double costoPasaje;
+		
+		switch (type.toLowerCase()){
+		case "regular1": {
+			
+			pasaje = new PasajeRegular();
+			numVuelo = 777;
+			origen = new LugarVuelo( "La Paz");
+			origen.setPais("Bolivia");
+			origen.setAeropuerto("Aeropuerto Internacional El Alto");
+			
+			destino = new LugarVuelo("Buenos Aires");
+			destino.setPais("Argentina");
+			destino.setAeropuerto("Aeropuerto Internacional Ezeiza");
+			
+			avion = new Avion("Boeing", 777);
+			cap =200;
+			avion.setCapacidad(cap);
+			avion.setNroAsientos(cap);
+			
+			pasajero = new Pasajero("Damon Albarn", "849356");
+			numAsiento = "2D";
+			costoPasaje = 1400.00;
+			
+			((PasajeRegular) pasaje).setNumVuelo(numVuelo);
+			((PasajeRegular) pasaje).setOrigen(origen);
+			((PasajeRegular) pasaje).setDestino(destino);
+			((PasajeRegular) pasaje).setAvion(avion);
+			((PasajeRegular) pasaje).setPasajero(pasajero);
+			((PasajeRegular) pasaje).setNumAsiento(numAsiento);
+			((PasajeRegular) pasaje).setCosto(costoPasaje);
+			
+		}case "solidario": {
+			
+			pasaje = new PasajeSolidario();
+		}case "infante": {
+			
+			pasaje = new PasajeInfantes();
+		}
+		
+		default:
+			pasaje = new PasajeRegular();
+		}
+		
+		pasaje.setNumVuelo(numVuelo);
+		pasaje.setOrigen(origen);
+		pasaje.setDestino(destino);
+		pasaje.setAvion(avion);
+		pasaje.setPasajero(pasajero);
+		pasaje.setNumAsiento(numAsiento);
+		pasaje.setCosto(costoPasaje);
+		
+		return pasaje;
+		
+	}
+
+}
