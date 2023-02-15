@@ -1,0 +1,50 @@
+package practica5;
+
+public class Computadora {
+	
+	private String procesador;
+	private int monitor;
+	private String teclado;
+	private String mouse;
+	private int ram;
+	private int video;
+	public String getProcesador() {
+		return procesador;
+	}
+	public void setProcesador(String procesador) {
+		this.procesador = procesador;
+	}
+	public int getMonitor() {
+		return monitor;
+	}
+	public void setMonitor(int monitor) {
+		this.monitor = monitor;
+	}
+	public String getTeclado() {
+		return teclado;
+	}
+	public void setTeclado(String teclado) {
+		this.teclado = teclado;
+	}
+	public String getMouse() {
+		return mouse;
+	}
+	public void setMouse(String mouse) {
+		this.mouse = mouse;
+	}
+	public int getRam() {
+		return ram;
+	}
+	public void setRam(int ram) {
+		this.ram = ram;
+	}
+	public int getVideo() {
+		return video;
+	}
+	public void setVideo(int video) {
+		this.video = video;
+	}
+	
+	
+
+}

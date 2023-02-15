@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="SegundoParcial.PFSegundoParcial"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
-    <fullyQualifiedTypeName name="SegundoParcial.Cliente"/>
-    <fullyQualifiedTypeName name="SegundoParcial.Cuadrilatero"/>
     <fullyQualifiedTypeName name="java.util.stream.IntStream"/>
     <fullyQualifiedTypeName name="java.util.function.Supplier"/>
     <fullyQualifiedTypeName name="java.lang.AssertionError"/>
@@ -34,13 +28,10 @@
     <fullyQualifiedTypeName name="SegundoParcial.Posiciones"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
-    <fullyQualifiedTypeName name="java.util.HashMap"/>
-    <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="terrenosDataBases.Persona"/>
     <fullyQualifiedTypeName name="terrenosDataBases.Terreno"/>
     <fullyQualifiedTypeName name="terrenosDataBases.Gestor"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="singleton.Sucursal"/>
     <fullyQualifiedTypeName name="singleton.Client"/>
@@ -59,4 +50,14 @@
     <fullyQualifiedTypeName name="practicaCambioMonedaSingleton.CasaDeCambios"/>
     <fullyQualifiedTypeName name="practicaCambioMonedaSingleton.LibreCambista"/>
     <fullyQualifiedTypeName name="practicaCambioMonedaSingleton.CuentaBancaria"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="practica4.PasajeRegular"/>
+    <fullyQualifiedTypeName name="practica4.PasajeSolidario"/>
+    <fullyQualifiedTypeName name="practica4.LugarVuelo"/>
+    <fullyQualifiedTypeName name="practica4.Pasajero"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="practica4.FactoryPasajeMap"/>
+    <fullyQualifiedTypeName name="practica4.Pasaje"/>
+    <fullyQualifiedTypeName name="practica4.PasajeInfantes"/>
 </qualifiedTypeNameHistroy>

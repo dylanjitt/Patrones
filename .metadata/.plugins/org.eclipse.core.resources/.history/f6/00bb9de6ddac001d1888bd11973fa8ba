@@ -1,0 +1,21 @@
+package practica5;
+
+public abstract class PcBuilder {
+	protected Computadora compu;
+
+	public Computadora getCompu() {
+		return compu;
+	}
+	
+	public void setCompu() {
+		compu = new Computadora();
+	}
+	
+	public abstract void setProcesador();
+	
+	
+	
+	
+	
+
+}
