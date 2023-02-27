@@ -1,7 +1,0 @@
-package practica3;
-
-public class PaisVuelo {
-	
-	private String pais;
-
-}

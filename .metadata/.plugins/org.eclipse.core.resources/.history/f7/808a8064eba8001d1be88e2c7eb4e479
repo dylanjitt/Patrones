@@ -1,5 +1,0 @@
-package notUsingPrototype;
-
-public class ConcreteObject {
-
-}
